@@ -1,12 +1,4 @@
 # IFS-RLHF
-
-**Robust Preference Aggregation for Reinforcement Learning from Human Feedback via Intuitionistic Fuzzy Group Decision Making**
-
-This repository contains the core implementation supporting the paper:
-
-> *Robust Preference Aggregation for Reinforcement Learning from Human Feedback via Intuitionistic Fuzzy Group Decision Making*  
-> Yimin Du — School of Software Engineering, USTC
-
 ---
 
 ## Overview
@@ -208,11 +200,5 @@ Key tests mirror paper propositions:
 ## Citation
 
 ```bibtex
-@article{du2025ifsrlhf,
-  title   = {Robust Preference Aggregation for Reinforcement Learning from Human Feedback
-             via Intuitionistic Fuzzy Group Decision Making},
-  author  = {Du, Yimin},
-  journal = {Expert Systems with Applications},
-  year    = {2025}
-}
+
 ```
