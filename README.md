@@ -1,6 +1,5 @@
 # IFS-RLHF
 ---
-
 ## Overview
 
 Standard RLHF pipelines reduce multi-annotator preference judgments to binary labels via majority vote, discarding annotator hesitation, confidence, and disagreement. **IFS-RLHF** recasts preference labeling as an *intuitionistic fuzzy group decision-making* problem.
